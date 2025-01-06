@@ -83,6 +83,7 @@ canvas {
 }
 .editPost > button {
   margin: 0;
+  margin-top: 0.5rem;
   padding: 0;
   width: 150px;
   height: 30px;
